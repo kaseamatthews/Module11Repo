@@ -4,8 +4,8 @@
 
 #Firstname Lastname
 #04/17/2025  
-# Add New Message 
+# added New Message 
 
 Print("Hello, World!")
 
-print ("Welcome to GitHub") 
+print ("Welcome to GitHub!") 
